@@ -1,14 +1,20 @@
+trigger (0:0.69) noble; urgency=low
+
+  * release 0.69 from alangrow.com. c99 int main compilation fix.
+
+ -- Alan Grow <alangrow@gmail.com>  Fri, 07 Mar 2025 21:29:30 -0500
+
 trigger (0:0.68) trusty; urgency=low
 
   * release 0.68 from alangrow.com. man page fixes.
 
- -- Alan Grow <agrow@iobound.net>  Sun, 26 Apr 2015 16:24:41 -0600
+ -- Alan Grow <alangrow@gmail.com>  Sun, 26 Apr 2015 16:24:41 -0600
 
 trigger (0:0.67) trusty; urgency=low
 
   * release 0.67 from alangrow.com
 
- -- Alan Grow <agrow@iobound.net>  Sat, 18 Apr 2015 17:57:30 -0600
+ -- Alan Grow <alangrow@gmail.com>  Sat, 18 Apr 2015 17:57:30 -0600
 
 trigger (0:0.66) unstable; urgency=low
 
